@@ -10,5 +10,5 @@ def HelloWorldInFrench():
 def HelloWorldInGerman():
     print("Hallo Welt")
 
-def HelloWorldInItaly():
+def HelloWorldInItalian():
     print("Ciao Mondo")
